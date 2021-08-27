@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WorkManager</string>
+    <string name="Notify">notify</string>
+    <string name="default_status">Nothing done yet</string>
 </resources>
